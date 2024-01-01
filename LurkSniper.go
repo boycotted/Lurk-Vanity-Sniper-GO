@@ -19,7 +19,7 @@ const (
 var (
 	claimed bool
 	mu      sync.Mutex
-	vanities = []string{"ow", "smh", "jr", "care"} // Add more vanity URLs as needed
+	vanities = []string{"trap"} // Add more vanity URLs as needed
 )
 
 var lurkBanner = `
