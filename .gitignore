@@ -1,0 +1,16 @@
+# Go
+*.exe
+*.dll
+*.exe~
+*.dll~
+*.pdb
+*.obj
+*.iobj
+*.ilt
+*.ilk
+*.iml
+*.ipch
+*.pdb
+*.log
+*.mk
+*.swp
